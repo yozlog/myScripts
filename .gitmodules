@@ -1,3 +1,6 @@
 [submodule "md-preview-with-frontmatter"]
 	path = md-preview-with-frontmatter
 	url = git@github.com:yozlog/md-preview-with-frontmatter.git
+[submodule "bw-fzf-copy"]
+	path = bw-fzf-copy
+	url = git@github.com:yozlog/bw-fzf-copy.git

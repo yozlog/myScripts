@@ -7,3 +7,4 @@
 ## 스크립트
 
 - [md-preview-with-frontmatter](https://github.com/yozlog/md-preview-with-frontmatter/): YAML frontmatter를 지원하는 [`Yazi`](https://github.com/sxyazi/yazi)용 커스텀 Markdown 미리보기 스크립트입니다.
+- [bw-fzf-copy](https://github.com/yozlog/bw-fzf-copy/): [`fzf`](https://github.com/junegunn/fzf)를 사용하여 [Bitwarden CLI](https://github.com/bitwarden/cli) 항목을 빠르게 검색하고 복사할 수 있는 스크립트 기반 TUI 도구입니다.
