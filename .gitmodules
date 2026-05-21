@@ -1,0 +1,3 @@
+[submodule "md-preview-with-frontmatter"]
+	path = md-preview-with-frontmatter
+	url = git@github.com:yozlog/md-preview-with-frontmatter.git
