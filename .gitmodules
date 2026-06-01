@@ -4,3 +4,6 @@
 [submodule "bw-fzf-copy"]
 	path = bw-fzf-copy
 	url = git@github.com:yozlog/bw-fzf-copy.git
+[submodule "hugo-auto-deploy"]
+	path = hugo-auto-deploy
+	url = git@github.com:yozlog/hugo-auto-deploy.sh.git
