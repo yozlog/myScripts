@@ -9,3 +9,4 @@
 - [md-preview-with-frontmatter](https://github.com/yozlog/md-preview-with-frontmatter/): 為 [`Yazi`](https://github.com/sxyazi/yazi) 設計的 Markdown 預覽腳本，支援 YAML frontmatter 高亮。
 - [bw-fzf-copy](https://github.com/yozlog/bw-fzf-copy/): 透過 [`fzf`](https://github.com/junegunn/fzf) 快速搜尋並複製密碼管理器 [Bitwarden CLI](https://github.com/bitwarden/cli) 項目的腳本式 TUI 工具。
 - [hugo-auto-deploy.sh](https://github.com/yozlog/hugo-auto-deploy.sh/): 自動拉取遠端 [Hugo](https://github.com/gohugoio/hugo) 專案並使用 Nginx Docker 容器部署網站的 Shell 腳本。
+- [sync-mailcow-ssl](https://github.com/yozlog/sync-mailcow-ssl.sh): 用於自動同步外部 ACME 憑證並自動配置 Mailcow SNI 映射的 Shell 腳本。

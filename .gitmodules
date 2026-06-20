@@ -7,3 +7,6 @@
 [submodule "hugo-auto-deploy"]
 	path = hugo-auto-deploy
 	url = git@github.com:yozlog/hugo-auto-deploy.sh.git
+[submodule "sync-mailcow-ssl"]
+	path = sync-mailcow-ssl
+	url = git@github.com:yozlog/sync-mailcow-ssl.sh.git
